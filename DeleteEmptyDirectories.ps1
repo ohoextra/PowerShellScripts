@@ -1,4 +1,4 @@
-# Use Powershell ISE - & "C:\GDrive Mirror\Tekst & Tabel\Configuration & Management\DeleteEmptyDirectories.ps1" -rootDirectory "C:\GDrive Mirror\Afbeelding\NSFW\Belle Delphine" -Verbose
+# Use Powershell ISE - & ".\DeleteEmptyDirectories.ps1" -rootDirectory "C:\Root" -Verbose
 
 param (
     [string]$rootDirectory
