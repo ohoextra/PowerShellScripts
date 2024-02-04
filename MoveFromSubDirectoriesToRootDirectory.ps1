@@ -1,4 +1,4 @@
-# Use Powershell ISE - & "C:\GDrive Mirror\Tekst & Tabel\Configuration & Management\MoveFromSubDirectoriesToRootDirectory.ps1" -sourcePath "C:\GDrive Mirror\Afbeelding\NSFW\Belle Delphine"
+# Use Powershell ISE - & ".\MoveFromSubDirectoriesToRootDirectory.ps1" -sourcePath "C:\Root"
 
 param (
     [string]$sourcePath
